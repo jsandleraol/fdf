@@ -1,5 +1,14 @@
 # FdF @ 42
 
+This project is a wireframe '3d' object renderer. It takes text files such as those in the test_maps file, in which there are numbers placed around a board which correspond to the locations and value (height). Currently only works on MacOS.
+
+Controls:
+
+	-WASD keys for movement
+	-'z' and 'x' to zoom
+	-'space' to change view types
+	-'r' to reset the parameters
+
 ![preview image](/preview.png)
 
 A simple 3D height-map renderer.  
