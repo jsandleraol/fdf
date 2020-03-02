@@ -1,6 +1,6 @@
 # FdF @ 42
 
-!
+![preview image](/preview.png)
 
 A simple 3D height-map renderer.  
 
